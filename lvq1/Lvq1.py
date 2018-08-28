@@ -118,3 +118,4 @@ class LVQ:
     def getClass(self):
         print tolerant
         return UniqeClass
+
